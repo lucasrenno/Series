@@ -10,7 +10,7 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [.NET](https://dotnet.microsoft.com/download).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 # 🎲 Rodar o sistema
 1. Clone o repositório pelo seu terminal.
