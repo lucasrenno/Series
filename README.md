@@ -1,7 +1,7 @@
 <h1 align="center">Painel de Séries</h1>
 <p align="center">Sistema que tem um menu para administrar séries. </p>
 <h1 align="center">
-    <a href="">🔗 .NET </a>
+    🔗 .NET
     <p align="center">🚀Linguagem usada no projeto</p>
 </h1>
 
