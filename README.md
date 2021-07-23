@@ -1,7 +1,7 @@
 <h1 align="center">Painel de Séries</h1>
 <p align="center">Sistema que tem um menu para administrar séries. </p>
 <h1 align="center">
-    🔗 .NET
+    🔗.NET
     <p align="center">🚀Linguagem usada no projeto</p>
 </h1>
 
@@ -9,7 +9,8 @@
 # 🔨 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[.NET](https://dotnet.microsoft.com/download) e bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+[.NET](https://dotnet.microsoft.com/download)
+[VSCode](https://code.visualstudio.com/)
 
 # 🎲 Rodar o sistema
 1. Clone o repositório pelo seu terminal.
