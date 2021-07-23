@@ -9,8 +9,8 @@
 # 🔨 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[.NET](https://dotnet.microsoft.com/download)
-[VSCode](https://code.visualstudio.com/)
+<p> .NET (https://dotnet.microsoft.com/download/) </p>
+<p> VSCode (https://code.visualstudio.com/) </p>
 
 # 🎲 Rodar o sistema
 1. Clone o repositório pelo seu terminal.
