@@ -39,12 +39,12 @@ namespace Series
                 opcaoUsuario = obterOpcaoUsuario();
             }
 
-            Console.WriteLine("Obriagdo por utilizar nossos serviços.");
+            Console.WriteLine("Obrigado por utilizar nossos serviços.");
             Console.ReadLine();
         }
         private static void VisualizarSeries()
         {
-            Console.WriteLine("Digite o id da serie: ");
+            Console.WriteLine("Digite o id da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
 
             var serie = repositorio.RetornaPorId(indiceSerie);
@@ -54,7 +54,7 @@ namespace Series
 
         private static void ExcluiSeries()
         {
-            Console.WriteLine("Digite o id da serie: ");
+            Console.WriteLine("Digite o id da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
             repositorio.Exclui(indiceSerie);
 
