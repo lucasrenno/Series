@@ -13,9 +13,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 # 🎲 Rodar o sistema
 1. Clone o repositório pelo seu terminal.
-```bash
-    git clone https://github.com/ws-silva/Series.git
-```
+
 2. Abra a pasta do clone no VScode.
 
 3. Aperte as teclas CTRL + ` para abrir o terminal do VScode.
