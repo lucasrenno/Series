@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wesle\\.nuget\\packages\\": {}
+    "C:\\Users\\lucasrenno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesle\\desktop\\bootcamp .NET\\Series\\Series.csproj",
+      "projectUniqueName": "C:\\Users\\lucasrenno\\desktop\\bootcamp .NET\\Series\\Series.csproj",
       "projectName": "Series",
-      "projectPath": "C:\\Users\\wesle\\desktop\\bootcamp .NET\\Series\\Series.csproj",
-      "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesle\\desktop\\bootcamp .NET\\Series\\obj\\",
+      "projectPath": "C:\\Users\\lucasrenno\\desktop\\bootcamp .NET\\Series\\Series.csproj",
+      "packagesPath": "C:\\Users\\lucasrenno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucasrenno\\desktop\\bootcamp .NET\\Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wesle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucasrenno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
